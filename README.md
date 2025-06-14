@@ -42,14 +42,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Vodkaa4&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-## Let's Play! 🎮
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Vodkaa4/Vodkaa4/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vodkaa4&style=flat-square&color=blue" alt="Profile Views" />
-</div>
